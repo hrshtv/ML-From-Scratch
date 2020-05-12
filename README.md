@@ -10,6 +10,7 @@
     - Contains a binary classifier that labels all 0s as 1 and rest all digits as 0.
     - Also contains an extension of the above classifier that classifies all 10 digits with an accuracy of 94%.
     - Both of the above networks are 2-layered and are implemented(vectorized) from scratch using NumPy.
-
+---
+5. **Decison Trees**: Decision Tree classifier written from scratch in python. Dataset used: [Banknote authentication dataset](http://archive.ics.uci.edu/ml/datasets/banknote+authentication)
 
 
