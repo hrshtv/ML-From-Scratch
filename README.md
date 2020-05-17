@@ -1,5 +1,12 @@
-# Machine Learning Algorithms
+# Machine Learning Algorithms From Scratch
+   
+This is mostly a 'practice' repository, containing some ML algorithms which I have implemented from scratch. Why? because:
 
+> “What I cannot create, I do not understand”  
+    ~ *<cite>Richard Feynman</cite>*
+
+I'll keep updating this repo as and when I learn new algorithms and implement it.  
+  
 1. **K-Nearest-Neighbours**: Recommends movies from the TMDB 5000 movies dataset based on the list of genres given as input.
 ---
 2. **Logistic-Regression**: Predicts how likely peope are to buy a product based on their gender, age, and salary.
