@@ -21,3 +21,7 @@ I'll keep updating this repo as and when I learn new algorithms and implement it
 5. **Decison Trees**: Decision Tree classifier implemented from scratch in python. Dataset used: [Banknote authentication dataset](http://archive.ics.uci.edu/ml/datasets/banknote+authentication)
 ---
 6. **Support Vector Machine**: A simple C-SVM binary classifier. Dataset used: [Breast Cancer Wisconsin Dataset](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+---
+7. **K-Means Clustering**: 
+	- Dataset used: [Synthetic 2-d data with N=5000 vectors and k=15 Gaussian clusters with different degree of cluster overlap](http://cs.joensuu.fi/sipu/datasets/)
+	- Implemented K-Means clustering algorithm. Used `matplotlib` to visualize clusters and centroids.  
