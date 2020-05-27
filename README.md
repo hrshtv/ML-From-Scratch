@@ -25,3 +25,7 @@ I'll keep updating this repo as and when I learn new algorithms and implement it
 7. **K-Means Clustering**: 
 	- Dataset used: [Synthetic 2-d data with N=5000 vectors and k=15 Gaussian clusters with different degree of cluster overlap](http://cs.joensuu.fi/sipu/datasets/)
 	- Implemented K-Means clustering algorithm. Used `matplotlib` to visualize clusters and centroids.  
+---
+8. **PCA**:
+	- Dataset used: [AT&T Database of Faces](https://www.kaggle.com/kasikrit/att-database-of-faces)
+	- Applied the Principal Component Analysis (PCA) algorithm for dimensionality reduction on face images.
