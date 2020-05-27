@@ -7,13 +7,13 @@ This is mostly a 'practice' repository, containing some ML algorithms which I ha
 
 I'll keep updating this repo as and when I learn new algorithms and implement it.  
 
-1. [**K-Nearest-Neighbours**](K-Nearest-Neighbours): Recommends movies from the TMDB 5000 movies dataset based on the list of genres given as input.
+1. [**K Nearest Neighbours**](K-Nearest-Neighbours): Recommends movies from the TMDB 5000 movies dataset based on the list of genres given as input.
 ---
-2. [**Logistic-Regression**](Logistic-Regression): Predicts how likely peope are to buy a product based on their gender, age, and salary.
+2. [**Logistic Regression**](Logistic-Regression): Predicts how likely peope are to buy a product based on their gender, age, and salary.
 ---
 3. [**Simple Neural Network**](Simple-Neural-Network): 2-layered neural network which mimics the XOR gate, implemented(vectorized) from scratch using NumPy.
 ---
-4. [**Digit-Classification**](Digit-Classification): Dataset used: MNIST  
+4. [**Digit Classification**](Digit-Classification): Dataset used: MNIST  
     - Contains a binary classifier that labels all 0s as 1 and rest all digits as 0.
     - Also contains an extension of the above classifier that classifies all 10 digits with an accuracy of 94%.
     - Both of the above networks are 2-layered and are implemented(vectorized) from scratch using NumPy.
@@ -26,7 +26,7 @@ I'll keep updating this repo as and when I learn new algorithms and implement it
 	- Dataset used: [Synthetic 2-d data with N=5000 vectors and k=15 Gaussian clusters with different degree of cluster overlap](http://cs.joensuu.fi/sipu/datasets/)
 	- Implemented K-Means clustering algorithm. Used `matplotlib` to visualize clusters and centroids.  
 ---
-8. [**PCA**](PCA):
+8. [**Principal Component Analysis**](PCA):
 	- Dataset used: [AT&T Database of Faces](https://www.kaggle.com/kasikrit/att-database-of-faces)
 	- Applied the Principal Component Analysis (PCA) algorithm for dimensionality reduction on face images.
 
@@ -34,4 +34,4 @@ I'll keep updating this repo as and when I learn new algorithms and implement it
 
 ## Authors:
 
-- Harshit Varma (`hrshtv`)
+- Harshit Varma ([`hrshtv`](https://github.com/hrshtv))
