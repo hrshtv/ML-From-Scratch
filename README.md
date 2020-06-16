@@ -32,6 +32,10 @@ I'll keep updating this repo as and when I learn new algorithms and implement it
 
 ---
 
+9. [**Moving Averages**](Moving-Averages)
+   - Dataset used: [Air Quality Data Set](https://archive.ics.uci.edu/ml/datasets/Air+Quality)
+   - Applied Simple Moving Average (SMA), Cumulative Moving Average (CMA), Weighted Moving Average (WMA), Exponentially Weighted Average (EWMA) on the dataset, all functions are written in NumPy.
+
 ## Authors:
 
 - Harshit Varma ([`hrshtv`](https://github.com/hrshtv))
