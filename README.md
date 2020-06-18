@@ -37,6 +37,7 @@ I'll keep updating this repo as and when I learn new algorithms and implement it
    - Applied Simple Moving Average (SMA), Cumulative Moving Average (CMA), Weighted Moving Average (WMA), Exponentially Weighted Average (EWMA) on the dataset, all functions are written in NumPy.
 10. [**Convolutions**](Convolutions)
     - [Edge Detection using kernels in NumPy](Convolutions/Edge-Detection-with-Kernels.ipynb)
+    - [Automated Canny Edge Detector](Convolutions/Automated-Canny-Edge-Detector)
 
 ## Authors:
 
