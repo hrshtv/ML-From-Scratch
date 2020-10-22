@@ -35,10 +35,20 @@ I'll keep updating this repo as and when I learn new algorithms and implement it
 9. [**Moving Averages**](Moving-Averages)
    - Dataset used: [Air Quality Data Set](https://archive.ics.uci.edu/ml/datasets/Air+Quality)
    - Applied Simple Moving Average (SMA), Cumulative Moving Average (CMA), Weighted Moving Average (WMA), Exponentially Weighted Average (EWMA) on the dataset, all functions are written in NumPy.
+  
+---
+  
 10. [**Convolutions**](Convolutions)
     - [Edge Detection using kernels in NumPy](Convolutions/Edge-Detection-with-Kernels.ipynb)
     - [Automated Canny Edge Detector](Convolutions/Automated-Canny-Edge-Detector)
-
-## Authors:
+  
+---
+    
+11. [**Histogram Equalization**](Histogram-Equalization)
+    - Covers the theory behind histogram equalization
+  
+---  
+  
+## Contributers:
 
 - Harshit Varma ([`hrshtv`](https://github.com/hrshtv))
